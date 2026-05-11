@@ -41,17 +41,15 @@
 
 ## 📁 仓库结构
 
-Unity-GameDemo/
-├── GameDemo/ # Unity 项目源码
-│ ├── EndlessRunner/ # 跑酷项目源码
-│ ├── TargetShooting/ # 打靶项目源码
-│ ├── RollingBall/ # 滚球项目源码
-│ └── ...
-├── BuildGame/ # 可执行文件（下载即玩）
-│ ├── EndlessRunner/ # 跑酷 exe
-│ ├── TargetShooting/ # 打靶 exe
-│ └── RollingBall/ # 滚球 exe
-└── README.md
+- **`GameDemo/`** —— Unity 项目源码
+  - `EndlessRunner/` ：2D 无尽跑酷源码
+  - `TargetShooting/` ：3D 打靶射击源码
+  - `RollingBall/` ：3D 滚球收集源码
+- **`BuildGame/`** —— 可执行文件（下载即玩）
+  - `EndlessRunner/` ：跑酷 .exe
+  - `TargetShooting/` ：打靶 .exe
+  - `RollingBall/` ：滚球 .exe
+- **`README.md`** —— 项目说明文档
 
 ---
 
